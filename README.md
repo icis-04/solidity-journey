@@ -1,4 +1,5 @@
 SOLIDITY PROJECTS
+
 SimpleStorage.sol - A contract that stores the  number of a person  and retrieves the number.
 
 StorageFactory.sol - A contract that calls the functions from another contract.
