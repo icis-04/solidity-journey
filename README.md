@@ -8,3 +8,4 @@ FundMe.sol - A simple funding contract that showcases how a smart contract can i
 
 deploy.py - A python script used to communicate with a smart contract deployed locally with ganache. 
 
+nft.sol - Working with ERC721 contract to create a simple nft that can be deployed
